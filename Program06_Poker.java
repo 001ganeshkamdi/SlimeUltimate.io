@@ -19,7 +19,6 @@ public class Program06_Poker {
             } else {
                 System.out.println("Tie.");
             }
-            sc.close();
         }
     }
 
