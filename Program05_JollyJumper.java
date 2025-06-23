@@ -17,7 +17,7 @@ public class Program05_JollyJumper {
             } else {
                 System.out.println("Not jolly");
             }
-            sc.close();
+        
         }
     }
 
